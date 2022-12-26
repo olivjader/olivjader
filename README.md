@@ -4,7 +4,7 @@
 - 🌱 Cursando Engenharia de Software
 - 💬 Ask me about ...
 - 📫 Contate-me no email: jaderoliv@outlook.com
-- 😄 Ele/Dele
+- 😄 Ele/Dele,
 
 <div align="center">
   <a href="https://github.com/olivjader">
