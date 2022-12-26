@@ -2,7 +2,6 @@
 
 
 - 🌱 Cursando Engenharia de Software
-- 💬 Ask me about ...
 - 📫 Contate-me no email: jaderoliv@outlook.com
 - 😄 Ele/Dele
 
